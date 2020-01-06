@@ -1,0 +1,26 @@
+{
+  "name": "datetime-locale",
+  "version": "1.0.0",
+  "description": "Converts javascript dates to/from values used for input[type=datetime-locale]",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcclintock-lab/datetime-locale.git"
+  },
+  "keywords": [
+    "datetime-locale",
+    "html"
+  ],
+  "author": "Chad Burt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcclintock-lab/datetime-locale/issues"
+  },
+  "homepage": "https://github.com/mcclintock-lab/datetime-locale#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
